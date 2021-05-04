@@ -10,11 +10,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 </p>
 
-<p align=center>
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlavioTerra&show_icons=true&theme=midnight-purple&locale=en" />
+        <img 
+             align="center" 
+             src="https://github-readme-stats.vercel.app/api?username=FlavioTerra&show_icons=true&theme=midnight-purple&locale=en" 
+             width="400"
+        />
      </a>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioTerra&layout=compact&theme=midnight-purple&locale=en" height="195"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioTerra&layout=compact&theme=midnight-purple&locale=en" height="160" />
      </a>
 </p>
