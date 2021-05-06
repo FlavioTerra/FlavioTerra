@@ -1,8 +1,8 @@
 <h2> Hello Human :alien:</h2>
 <ul>
-      <li>My name is flavio i am a student of systems analysis and development by Fatec (4/6). :computer:</li>
+      <li>My name is Flavio, i'm a student of systems analysis and development by Fatec (4/6). :computer:</li>
       <li>I am graduated in technician Electro-electronics by IFSP. :mortar_board:</li>
-      <li>focused on being a great web application developer :star:</li>
+      <li>Focused on being a great web application developer :star:</li>
       <li>How to reach me: 
             <a href="https://www.linkedin.com/in/flaviomoreiraterra/">:link:</a>
       </li>
