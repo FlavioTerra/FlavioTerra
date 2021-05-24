@@ -27,7 +27,7 @@
 
 <hr />
 
-<h3 align="center">Other Information</h3>
+<h3 align="center">Stats</h3>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
