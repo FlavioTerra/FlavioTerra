@@ -4,7 +4,7 @@
       <li>I am graduated in technician Electro-electronics by IFSP. :mortar_board:</li>
       <li>Focused on being a great web application developer :star:</li>
       <li>How to reach me: 
-            <a href="https://www.linkedin.com/in/flaviomoreiraterra/" target="_blank">:link:</a>
+            <a href="https://www.linkedin.com/in/flaviomoreiraterra/">:link:</a>
       </li>
 </ul>
 
