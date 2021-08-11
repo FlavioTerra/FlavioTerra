@@ -43,3 +43,5 @@
         />
      </a>
 </p>
+
+![Snake animation](https://github.com/FlavioTerra)
