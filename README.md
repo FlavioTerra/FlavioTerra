@@ -44,4 +44,4 @@
      </a>
 </p>
 
-![Snake animation](https://github.com/FlavioTerra)
+![Snake animation](https://github.com/rafaballerini/FlavioTerra/blob/output/github-contribution-grid-snake.svg)
