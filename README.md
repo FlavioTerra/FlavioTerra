@@ -1,7 +1,7 @@
 <h2> Welcome to my github</h2>
 <ul>
       <li>My name is flavio I have a degree in systems analysis and development and a postgraduate degree in artificial intelligence. :mortar_board::computer:</li>
-      <li>Focused on being a great web application developer :star:</li>
+      <li>Focused on being a great front-end developer :star:</li>
       <li>How to reach me: 
             <a href="https://www.linkedin.com/in/flaviomoreiraterra/">:link:</a>
       </li>
