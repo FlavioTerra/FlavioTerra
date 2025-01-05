@@ -1,7 +1,6 @@
-<h2> Hello Human :alien:</h2>
+<h2> Welcome to my github</h2>
 <ul>
-      <li>My name is Flavio, i'm a student of systems analysis and development by Fatec (5/6). :computer:</li>
-      <li>I am graduated in technician Electro-electronics by IFSP. :mortar_board:</li>
+      <li>My name is flavio I have a degree in systems analysis and development and a postgraduate degree in artificial intelligence. :mortar_board::computer:</li>
       <li>Focused on being a great web application developer :star:</li>
       <li>How to reach me: 
             <a href="https://www.linkedin.com/in/flaviomoreiraterra/">:link:</a>
@@ -12,16 +11,13 @@
 
 <h3 align="center">Technical Knowledge</h3>
 <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="kotlin" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"  width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>    
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5"  width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 <hr />
